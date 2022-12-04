@@ -5,7 +5,6 @@
             [clojure.string :as str]))
 
 ; in day 3, let's validate rucksacks
-;; boing boing
 
 ^::clerk/no-cache
 (def input (slurp (io/resource "day-03.txt")))
