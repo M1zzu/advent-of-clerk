@@ -4,8 +4,6 @@
             [clojure.java.io :as io]
             [clojure.string :as str]))
 
-;; boing boing
-
 ^::clerk/no-cache
 (def input (slurp (io/resource "day-04.txt")))
 
