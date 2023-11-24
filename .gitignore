@@ -20,3 +20,5 @@ yarn.lock
 /public/build
 .nrepl-port
 .clj-kondo/marick
+.clj-kondo/babashka*
+.clj-kondo/rewrite-clj*
