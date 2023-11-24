@@ -1,6 +1,7 @@
 .DS_Store
 .cache/
 .clerk/
+.calva/
 .cpcache/
 .lsp/
 node_modules
